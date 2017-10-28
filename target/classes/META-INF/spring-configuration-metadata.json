@@ -1,0 +1,12 @@
+{
+  "groups": [{
+    "name": "qifang",
+    "type": "com.frank.config.MyConfig",
+    "sourceType": "com.frank.config.MyConfig"
+  }],
+  "properties": [{
+    "name": "qifang.word",
+    "type": "java.lang.String",
+    "sourceType": "com.frank.config.MyConfig"
+  }]
+}

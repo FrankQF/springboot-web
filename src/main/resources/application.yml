@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: dev
+  thymeleaf:
+    cache: false
+server:
+  port: 8443
+  ssl:
+    key-store: .keystore
+    key-store-password: 111111
+    trust-store-type: JKS
+    key-alias: tomcat
